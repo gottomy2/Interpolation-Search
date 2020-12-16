@@ -14,4 +14,4 @@
 				
  ##### [Source](https://www.tutorialspoint.com/data_structures_algorithms/interpolation_search_algorithm.htm)
 ----
-#### Author: Igor Motowidło,
+#### Author: Igor Motowidło
